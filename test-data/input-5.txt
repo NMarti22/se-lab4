@@ -1,0 +1,6 @@
+# Create a ship with 2 torpedos in the first store with a 0% failure rate and 2 torpedos in the second store with a 0% failure rate ->both fire at the same time and then get empty
+GT4500,2,0,2,0
+TORPEDO,ALL  # both succeed
+TORPEDO,ALL # both succeed
+TORPEDO,ALL #both fail
+TORPEDO,SINGLE #both are empty

@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+FAIL  # <- first one fails
+FAIL #second one fails
+FAIL #both fail
