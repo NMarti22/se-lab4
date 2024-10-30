@@ -1,0 +1,2 @@
+# firing a torpedo when there is no ship
+TORPEDO,SINGLE

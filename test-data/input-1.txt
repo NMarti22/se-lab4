@@ -1,0 +1,3 @@
+# Create a ship with an empty first store and 1 torpedo in the second store but with a 100% failure rate
+GT4500,0,0,1,1
+TORPEDO,SINGLE  # second one is a failure

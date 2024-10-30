@@ -1,0 +1,5 @@
+# Create a ship with one torpedo in the first store with a 100% failure rate and 1 torpedo in the second store with a 100% failure rate ->it never fires thek
+GT4500,1,1,1,1
+TORPEDO,SINGLE  # first one fails
+TORPEDO,SINGLE # second one fails
+TORPEDO,ALL #both fails

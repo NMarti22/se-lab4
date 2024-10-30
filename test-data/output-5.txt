@@ -1,0 +1,7 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- both succeed
+SUCCESS #both succeed
+FAIL #both fail
+FAIL #both are empty and neither can fire
+
+
